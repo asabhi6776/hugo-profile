@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Abhishek Singh"
 theme: hugo-profile
 
 outputs:
@@ -134,9 +134,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/asabhi6776
         - icon: fab fa-twitter
-          url: https://example.com
+          url: https://twitter.com/asabhi6776
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
