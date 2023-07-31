@@ -137,9 +137,12 @@ params:
           url: https://github.com/asabhi6776
         - icon: fab fa-twitter
           url: https://twitter.com/asabhi6776
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: fab fa-linkedin
+          url: https://linkedin.com/asabhi6776
+        
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:
