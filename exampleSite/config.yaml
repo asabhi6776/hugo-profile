@@ -121,7 +121,7 @@ params:
     title: "Abhishek Singh."
     subtitle: "I automate things for living"
     content: "A passionate DevOps Engineer. I deploy, manage and automate the process using Ansible, Terraform, Docker, Kubernetes and Openshift."
-    image: /images/hero.svg
+    image: /images/peep.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
