@@ -354,7 +354,7 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "https://opscribe.site/rss.xml"
       count: 3
       title: Recent Posts
       enable: true
