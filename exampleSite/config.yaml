@@ -295,7 +295,7 @@ params:
     # title: "Custom Name"
     items:
       - title: SES Mailtest
-        content: It is web application, you can use to test your smtp settings
+        content: This is a Flask app that allows you to send a test email using the Amazon SES service. The app takes in the SES Access Key, SES Secret Key, sender email address, recipient email address, email subject, and email body as input and sends the email using the specified SMTP server.
         image: /images/projects/ses-mailtest.png
         # featured:
         #   name: Demo
@@ -354,7 +354,7 @@ params:
 
   footer:
     recentPosts:
-      path: https://opscribe.site/rss.xml
+      path: "blogs"
       count: 3
       title: Recent Posts
       enable: true
