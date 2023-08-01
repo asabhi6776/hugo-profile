@@ -294,50 +294,50 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+      - title: SES Mailtest
+        content: It is web application, you can use to test your smtp settings
+        image: /images/projects/ses-mailtest.png
+        # featured:
+        #   name: Demo
+        #   link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "SES"
+          - "Flask"
+          - "AWS"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          # - icon: fa fa-envelope
+          #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/asabhi6776/SES_mailtest.git
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: Xdesktop
+        content: Xdesktop is a VDI solution which runs Ubuntu GUI in docker containing all the required tools fro java and python development.
+        image: /images/projects/xdesktop.png
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "novnc"
+          - "docker"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/asabhi6776/xdesktop.git
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+      - title: Minecraft Server
+        content: Highly customized Minecraft Server which runs latest minecraft version in papermc. Its containerized so anyone can launch it by running few commands.
+        image: /images/projects/minecraft.png
+        # featured:
+        #   name: Demo V2
+        #   link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Minecraft"
+          - "Docker"
+          - "papermc"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/asabhi6776/minecraft_server.git
 
   #Contact
   contact:
